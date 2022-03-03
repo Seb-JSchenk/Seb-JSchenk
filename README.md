@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Seb-JSchenk
 - 👀 I’m interested in games
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning python
 - 📫 How to reach me: seb.jschenk@gmail.com
 
 <!---
