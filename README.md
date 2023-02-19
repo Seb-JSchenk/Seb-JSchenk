@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Seb-JSchenk
 - 👀 I’m interested in games
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Telerik for Blazor
 - 📫 How to reach me: seb.jschenk@gmail.com
 
 <!---
